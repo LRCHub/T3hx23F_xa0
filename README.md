@@ -1,0 +1,88 @@
+# テイラー・スウィフト – The Man
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I would be complex,
+I would be cool
+They’d say I played the field
+before I found someone to commit
+to
+That would be okay for me to do
+Every conquest I had made would
+make me more of a boss to you
+I’d be a fearless leader
+I’d be an alpha type
+When everyone believes you
+What’s that like?
+I’m so sick of running as fast
+as I can
+Wondering if I’d get there
+quicker if I was a man
+And I’m so sick of them coming
+at me again
+‘Cause if I was a man, then
+I’d be the man
+I’d be the man
+I’d be the man
+They say I hustled, put in the
+work
+They wouldn’t shake their heads
+and question how much of this I
+deserve
+What I was wearing, if I was
+rude
+Could I be separated from my
+good ideas and power moves?
+And they would toast to me or
+let the players play
+I’d be just like Leo in Saint
+Tropez
+I’m so sick of running as fast
+as I can
+Wondering if I’d get there
+quicker if I was a man
+And I’m so sick of them coming
+at me again
+‘Cause if I was a man, then
+I’d be the man
+I’d be the man
+I’d be the man
+Would you like to worry about
+drinkin’ and dollars?
+And getting b------ and models?
+And it’s so good if you’re bad
+And it’s okay if you’re mad
+If I was out flashing my dollars
+I’d be a b---- not a baller
+They pick me out to be bad
+So, it’s okay that I’m mad
+I’m so sick of running as fast
+as I can
+Wondering if I’d get there
+quicker if I was a man (You
+know that) And I’m so sick of
+them coming at me again (Coming
+at me again)
+‘Cause if I was a man (If I was
+a man), then I’d be the man
+(Then I’d be the man)
+And I’m so sick of running as
+fast as I can (As fast as I
+can)
+Wondering if I’d get there
+quicker if I was a man (Hey!)
+And I’m so sick of them coming
+at me again (Coming at me
+again)
+‘Cause if I was a man, then
+I’d be the man (If I was a
+man)
+I’d be the man
+I’d be the man
+(Oh)
+I’d be the man (Yeah)
+I’d be the man
+(I’d be the man)
+If I was a man, I’d be the man
+```
