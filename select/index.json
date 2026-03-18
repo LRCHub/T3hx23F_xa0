@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The Man",
+  "base_artist": "テイラー・スウィフト",
+  "createdAt": "2026-03-18T21:52:28.919471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blow The Man Down",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Blow_The_Man_Down_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Even the Man in the Moon Is Crying",
+      "artist": "Mark Collie",
+      "has_synced": false,
+      "path": "select/02_Even_the_Man_in_the_Moon_Is_Crying_Mark_Collie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Even The Man In The Moon Is Crying",
+      "artist": "Mark Collie",
+      "has_synced": true,
+      "path": "select/03_Even_The_Man_In_The_Moon_Is_Crying_Mark_Collie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Man Comes Around",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/04_The_Man_Comes_Around_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Man Comes Around (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/05_The_Man_Comes_Around_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Man I Want to Be",
+      "artist": "Chris Young",
+      "has_synced": true,
+      "path": "select/06_The_Man_I_Want_to_Be_Chris_Young.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Man Who Loves You the Most",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/07_The_Man_Who_Loves_You_the_Most_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Woman In Me (Needs The Man In You)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/08_The_Woman_In_Me_(Needs_The_Man_In_You)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Woman In Me (Needs The Man In You) (Album Version)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/09_The_Woman_In_Me_(Needs_The_Man_In_You)_(Album_Version)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm Waiting for the Man",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/10_I'm_Waiting_for_the_Man_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm Waiting For The Man",
+      "artist": "The Velvet Underground & Nico",
+      "has_synced": true,
+      "path": "select/11_I'm_Waiting_For_The_Man_The_Velvet_Underground_&_Nico.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Man Who Sold the World - Live",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/12_The_Man_Who_Sold_the_World_-_Live_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Man Who Sold The World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/13_The_Man_Who_Sold_The_World_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Man Who Sold The World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/14_The_Man_Who_Sold_The_World_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Man Who Sold the World",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/15_The_Man_Who_Sold_the_World_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Man Who Sold The World",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_The_Man_Who_Sold_The_World_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Man",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_01_The_Man_テイラー・スウィフト.txt"
+    }
+  ]
+}
